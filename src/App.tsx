@@ -66,6 +66,10 @@ const Profile = () => {
     return (
         <div>
             profile
+            profile
+            profile
+            profile
+            profile
         </div>
     )
 }
